@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **SamujjwalSam/SamujjwalSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-H<h1 align="center">Hello, I'm Samujjwal</h1>
+<h1 align="center">Hello, I'm Samujjwal</h1>
 <h3 align="center">Pursuing PhD in Machine Learning at IIT Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samujjwalsam" alt="samujjwalsam" /> </p>
