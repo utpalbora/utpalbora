@@ -1,7 +1,5 @@
 ### Hello 👋, I'm Samujjwal
 #### Pursuing PhD in Machine Learning at IIT Hyderabad
-<!--
-**SamujjwalSam/SamujjwalSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on [Domain Adaptation in Natural Language Processing](https://github.com/SamujjwalSam/Short-text_GNN)
 
