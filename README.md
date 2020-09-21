@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Domain Adaptation in Natural Language Processing](https://github.com/SamujjwalSam/Short-text_GNN)
 
-- 🌱 I’m currently learning **Reinforcement Learning and SQL**
+- 🌱 I’m currently learning **Reinforcement Learning** and **SQL**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/samujjwal](https://sites.google.com/view/samujjwal)
+- 👨‍💻 More details about me is available at [https://sites.google.com/view/samujjwal](https://sites.google.com/view/samujjwal)
 
-- 💬 Ask me about **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning, etc.**
+- 💬 Feel Free to Ask me about: **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning, etc.**
 
 - 📫 How to reach me **cs16resch01001@iith.ac.in**
 
-- ⚡ I love to **advise startups on Machine Learning (i.e. I advise SpoonShot.com)**
+- ⚡ I enjoy **adviseing startups and others on Machine Learning (i.e. I advise SpoonShot.com, a food-tech startup)**
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p>
 
