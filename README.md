@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cs16resch01001@iith.ac.in**
 
-- ⚡ I enjoy **adviseing startups and others on Machine Learning (i.e. I advise SpoonShot.com, a food-tech startup)**
+- ⚡ I enjoy **adviseing startups and others on Machine Learning (i.e. I advise [SpoonShot.com](SpoonShot.com), a food-tech startup)**
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p>
 
