@@ -9,9 +9,9 @@
 
 - 👨‍💻 More details about me is available at [https://sites.google.com/view/samujjwal](https://sites.google.com/view/samujjwal)
 
-- 💬 Feel Free to Ask me about: **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning, etc.**
+- 💬 Feel Free to Ask me about: **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **cs16resch01001@iith.ac.in**
+- 📫 Reach me at **cs16resch01001@iith.ac.in**
 
 - ⚡ I enjoy **advising startups and educating others on Machine Learning. I advise [SpoonShot.com](SpoonShot.com), a food-tech startup**
 
