@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/samujjwal_sam" target="blank"><img src="https://img.shields.io/twitter/follow/samujjwal_sam?logo=twitter&style=for-the-badge" alt="samujjwal_sam" /></a> </p>
 
-- 🔭 I’m currently working on [Domain Adaptation in Natural Language Processing](https://github.com/SamujjwalSam/Short-text_GNN)
+- 🔭 I’m currently working on [Domain Adaptation in Natural Language Processing](https://github.com/SamujjwalSam/Short-text_GNN).
 
-- 🌱 I’m currently learning **Reinforcement Learning** and **SQL**
+- 🌱 I’m currently learning **Reinforcement Learning** and **SQL**.
 
 - 👨‍💻 More details about me is available at [https://sites.google.com/view/samujjwal](https://sites.google.com/view/samujjwal)
 
-- 💬 Feel Free to Ask me about: **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning**
+- 💬 Feel Free to Ask me about: **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning**.
 
-- 📫 Reach me at **cs16resch01001@iith.ac.in**
+- 📫 Reach me at **cs16resch01001@iith.ac.in**.
 
-- ⚡ I enjoy **advising** startups and **educating** others on Machine Learning. I advise [SpoonShot](https://SpoonShot.com), a food-tech startup
+- ⚡ I enjoy **advising** startups and **educating** others on Machine Learning. I advise [**SpoonShot**](https://SpoonShot.com), a food-tech startup.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
