@@ -1,33 +1,63 @@
-<h1 align="center">Hello, I'm Samujjwal</h1>
-<h3 align="center">Pursuing PhD in Machine Learning at IIT Hyderabad</h3>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samujjwalsam&label=Profile%20views&color=0e75b6&style=flat" alt="samujjwalsam" /> </p>
+<a href="https://twitter.com/utpal4060">
+  <img align="left" alt="Utpal Bora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/borautpal/">
+  <img align="left" alt="Utpal at LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/utpal4060/">
+  <img align="left" alt="Utpal at Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samujjwalsam" alt="samujjwalsam" /></a> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=utpalbora.utpalbora)
 
-<p align="left"> <a href="https://twitter.com/samujjwal_sam" target="blank"><img src="https://img.shields.io/twitter/follow/samujjwal_sam?logo=twitter&style=for-the-badge" alt="samujjwal_sam" /></a> </p>
+<br />
 
-- 🔭 I’m currently working on [Domain Adaptation in Natural Language Processing](https://github.com/SamujjwalSam/Short-text_GNN).
+Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Languages and Compilers at [IIT Hyderabad](https://iith.ac.in), India. 
 
-- 🌱 I’m currently learning **Reinforcement Learning** and **SQL**.
+**Talking about Personal Stuffs:**
 
-- 👨‍💻 More details about me is available at [https://sites.google.com/view/samujjwal](https://sites.google.com/view/samujjwal)
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning GraphQL and C++; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
-- 💬 Feel Free to Ask me about: **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning**.
+**Languages and Tools:**  
 
-- 📫 Reach me at **cs16resch01001@iith.ac.in**.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- ⚡ I enjoy **advising** startups and **educating** others on Machine Learning. I advise [**SpoonShot**](https://SpoonShot.com), a food-tech startup.
+📈 My GitHub Stats
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/samujjwal_sam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="samujjwal_sam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samujjwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samujjwal" height="30" width="40" /></a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=utpalbora&show_icons=true&theme=gotham" alt="utpalbora" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utpalbora" alt="utpalbora" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/utpal4060" target="blank"><img src="https://img.shields.io/twitter/follow/utpal4060?logo=twitter&style=for-the- badge" alt="utpal4060" /></a> </p>
+
+- 🔭 I’m currently working on [Race detection in OpenMP programs](https://compilers.cse.iith.ac.in/projects/llov/).
+
+- 🌱 I’m currently learning **Program Verification** and ***COQ*.
+
+- 👨‍💻 More details about me is available at [utpalbora.com](https://utpalbora.com)
+
+- 💬 Feel Free to Ask me about: **Compilers, Static Analysis, Parallel Programming, Race Detection, LLVM**.
+
+- 📫 Reach me at **cs14mtech11017** [at] **iith** [dot] **ac** [dot] **in**.
+
+- ⚡ I enjoy **coding** and **teaching**.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samujjwalsam&layout=compact" alt="samujjwalsam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samujjwalsam&show_icons=true" alt="samujjwalsam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpalbora&layout=compact" alt="utpalbora" /></p>
