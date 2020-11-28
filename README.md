@@ -1,5 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=utpalbora.utpalbora)
-<a href="https://twitter.com/utpal4060" target="_blank">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=utpalbora.utpalbora) <a href="https://twitter.com/utpal4060" target="_blank">
   <img align="right" alt="Utpal Bora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/borautpal" target="_blank">
