@@ -51,11 +51,13 @@ Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Langua
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 
+
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=utpalbora&show_icons=true&theme=gotham" alt="utpalbora" />
+
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=utpalbora&show_icons=true&theme=gotham" alt="utpalbora" /></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpalbora&layout=compact" alt="utpalbora" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utpalbora" alt="utpalbora" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/utpal4060" target="_blank"><img src="https://img.shields.io/twitter/follow/utpal4060?logo=twitter&style=for-the- badge" alt="utpal4060" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpalbora&layout=compact" alt="utpalbora" /></p>
