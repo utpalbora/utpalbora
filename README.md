@@ -18,11 +18,19 @@ Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Langua
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 🔭 I’m currently working on [Race detection in OpenMP programs](https://compilers.cse.iith.ac.in/projects/llov/).
+
+- 🌱 I’m currently learning **Program Verification**, **COQ**, and **Modern C++**.
+
+- 👨‍💻 More details about me is available at [utpalbora.com](https://utpalbora.com)
+
+- 💬 Feel Free to Ask me about: **Compilers, Static Analysis, Parallel Programming, Race Detection, LLVM**.
+
+- 📫 Reach me [@utpal4060](https://twitter.com/utpal4060) or at **cs14mtech11017** [at] **iith** [dot] **ac** [dot] **in**.
+
+- ⚡ I enjoy **coding** and **teaching**.
+
+- 📝[Resume](https://utpalbora.com/documents/CV.pdf)
 
 **Languages and Tools:**  
 
@@ -44,18 +52,6 @@ Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Langua
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utpalbora" alt="utpalbora" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/utpal4060" target="blank"><img src="https://img.shields.io/twitter/follow/utpal4060?logo=twitter&style=for-the- badge" alt="utpal4060" /></a> </p>
-
-- 🔭 I’m currently working on [Race detection in OpenMP programs](https://compilers.cse.iith.ac.in/projects/llov/).
-
-- 🌱 I’m currently learning **Program Verification** and ***COQ*.
-
-- 👨‍💻 More details about me is available at [utpalbora.com](https://utpalbora.com)
-
-- 💬 Feel Free to Ask me about: **Compilers, Static Analysis, Parallel Programming, Race Detection, LLVM**.
-
-- 📫 Reach me at **cs14mtech11017** [at] **iith** [dot] **ac** [dot] **in**.
-
-- ⚡ I enjoy **coding** and **teaching**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
