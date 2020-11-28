@@ -2,16 +2,16 @@
 
 Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Languages and Compilers at [IIT Hyderabad](https://iith.ac.in), India. 
 <a href="https://twitter.com/utpal4060" target="_blank">
-  <img align="left" alt="Utpal Bora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Utpal Bora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/borautpal" target="_blank">
-  <img align="left" alt="Utpal at LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Utpal at LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/utpal4060" target="_blank">
-  <img align="left" alt="Utpal at Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Utpal at Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://utpalbora.com" target="_blank">
-  <img align="left" alt="Utpal's Blog" width="22px" src="https://utpalbora.com/favicon.ico" />
+  <img align="right" alt="Utpal's Blog" width="22px" src="https://utpalbora.com/favicon.ico" />
 </a>
 <br />
 
