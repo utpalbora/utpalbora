@@ -56,8 +56,8 @@ Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Langua
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=utpalbora&show_icons=true&theme=gotham" alt="utpalbora" /></p>
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpalbora&layout=compact" alt="utpalbora" /></p>
-
+<br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utpalbora" alt="utpalbora" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/utpal4060" target="_blank"><img src="https://img.shields.io/twitter/follow/utpal4060?logo=twitter&style=for-the- badge" alt="utpal4060" /></a> </p>
+<br />
+<p align="left"> <a href="https://twitter.com/utpal4060" target="_blank"><img src="https://img.shields.io/twitter/follow/utpal4060?logo=twitter&style=for-the-%20badge" alt="utpal4060" /></a> </p>
 
