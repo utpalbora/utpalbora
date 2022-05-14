@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=utpalbora.utpalbora)
 
-Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Languages and Compilers at [IIT Hyderabad](https://iith.ac.in), India. 
+Hi, I'm [Utpal Bora](https://utpalbora.com/), a PostDoc in the Computer Architecture Group at [University of Cambridge](https://www.cl.cam.ac.uk/~tmj32/research/group.html), UK. 
+Prior to this, I was a PhD scholar in the Programming Languages and Compilers group at [IIT Hyderabad](https://iith.ac.in), India. 
 <a href="https://twitter.com/utpal4060" target="_blank">
   <img align="right" alt="Utpal Bora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,9 +18,11 @@ Hi, I'm [Utpal Bora](https://utpalbora.com/), pursuing PhD in Programming Langua
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on [Race detection in OpenMP programs](https://compilers.cse.iith.ac.in/projects/llov/).
+- 🔭 I’m currently working on Auto-Parallelization for a novel microprocessor architecture.
 
-- 🌱 I’m currently learning **Program Verification**, **COQ**, and **Modern C++**.
+- 🔭 For my PhD, I worked on [Race detection in OpenMP programs](https://compilers.cse.iith.ac.in/projects/llov/).
+
+- 🌱 I’m currently learning **RISC-V**, **GEM5**, and **Modern C++**.
 
 - 👨‍💻 More details about me is available at [utpalbora.com](https://utpalbora.com)
 
